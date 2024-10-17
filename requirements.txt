@@ -4,3 +4,4 @@ pandas
 regex
 streamlit
 scikit-learn
+pickle
