@@ -7,7 +7,7 @@ import json
 from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 from nltk.corpus import wordnet
-
+import sklearn
 lemmatizer = WordNetLemmatizer()
 
 def download_nltk_data():
